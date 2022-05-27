@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-stream-buffer",
+  "version": "1.0.0",
+  "description": "Um projeto que trabalha Stream e buffer de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Stream",
+    "Buffer"
+  ],
+  "author": "Harley Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
